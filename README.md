@@ -1,8 +1,8 @@
 # TeamMates and Contributions
 The base code had some minor issues which were fixed individually by all the team members. We have implemented 3 projecs using SCNet50 each one majorly contributing to one of the three projects. 
-Greeshma Guduguntla (B01037966): Implemented Object Detection using SCNet50, helped in implenting Classification task. 
-Naga Ramya Gurrala (B01040125): Implemented Classification using SCNet50, Helped in implementing Object Detection task. 
-Lakshmi Reshma Reddy Pallala (B01035894): Implemented Face Mask Detection using SCNet50. 
+1. Greeshma Guduguntla (B01037966): Implemented Object Detection using SCNet50, helped in implenting Classification task. 
+2. Naga Ramya Gurrala (B01040125): Implemented Classification using SCNet50, Helped in implementing Object Detection task. 
+3. Lakshmi Reshma Reddy Pallala (B01035894): Implemented Face Mask Detection using SCNet50. 
 
 Equal contribution by all the team members in Project documentation.
 
